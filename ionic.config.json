@@ -1,0 +1,7 @@
+{
+  "name": "mqtt-app-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
